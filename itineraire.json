@@ -1,0 +1,338 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🍝",
+  "titre": "Évasion Relaxante en Ligurie : La Spezia et les Cinque Terre",
+  "budget_total": "Environ 1200 €/personne",
+  "duree": "8 jours",
+  "date_debut": "2026-08-24",
+  "date_fin": "2026-08-31",
+  "temps_vol": "1h45 (depuis Paris, France)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douceur à La Spezia",
+      "legende": "Après votre vol et votre transfert, installez-vous confortablement à La Spezia. Profitez d'une première balade relaxante le long du front de mer pour vous imprégner de l'ambiance méditerranéenne et savourer un dîner typiquement ligure.",
+      "lieu": "La Spezia",
+      "activites": [
+        "<strong>🛬 Arrivée à Pise et transfert à La Spezia</strong>: Vol de Paris à Pise, puis un court trajet en train vous mènera à La Spezia, porte d'entrée des Cinque Terre.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez le temps de vous installer et de vous rafraîchir après le voyage.",
+        "<strong>🚶‍♂️ Balade au Port Mirabello</strong>: Une promenade paisible le long du port, admirant les yachts et les lumières du soir, pour une première immersion en douceur."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Pise, Pise",
+          "categorie": "Aéroport",
+          "coords": { "lat": 43.6839, "lng": 10.3927 }
+        },
+        {
+          "nom_recherche": "Gare de La Spezia Centrale, La Spezia",
+          "categorie": "Gare",
+          "coords": { "lat": 44.1075, "lng": 9.8142 }
+        },
+        {
+          "nom_recherche": "Port Mirabello, La Spezia",
+          "categorie": "Port",
+          "coords": { "lat": 44.1025, "lng": 9.8250 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚆",
+          "titre": "Conseil Transport",
+          "texte": "Le train est le moyen le plus pratique pour rejoindre La Spezia depuis l'aéroport de Pise (via la gare de Pise Centrale). Achetez vos billets à l'avance ou sur place."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Charme des Cinque Terre : Riomaggiore et Manarola",
+      "legende": "Découvrez deux des villages emblématiques des Cinque Terre. Flânez dans les ruelles colorées, admirez les vues imprenables sur la mer et savourez la quiétude de ces lieux classés au patrimoine mondial de l'UNESCO.",
+      "lieu": "Cinque Terre",
+      "activites": [
+        "<strong>🚂 Exploration de Riomaggiore</strong>: Prenez le train pour Riomaggiore, le premier village en venant de La Spezia. Perdez-vous dans ses rues escarpées et découvrez son petit port pittoresque.",
+        "<strong>🚶‍♀️ Balade côtière (si ouverte) ou train vers Manarola</strong>: Profitez de la célèbre Via dell'Amore (vérifier son ouverture) ou prenez un court trajet en train pour Manarola, réputée pour ses maisons colorées et ses vignobles en terrasses.",
+        "<strong>🌅 Coucher de soleil à Manarola</strong>: Trouvez un spot idéal pour admirer le coucher de soleil sur la mer Ligure, un moment magique et relaxant."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Riomaggiore, Cinque Terre",
+          "categorie": "Village",
+          "coords": { "lat": 44.0988, "lng": 9.7362 }
+        },
+        {
+          "nom_recherche": "Manarola, Cinque Terre",
+          "categorie": "Village",
+          "coords": { "lat": 44.1070, "lng": 9.7266 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🎫",
+          "titre": "Cinque Terre Card",
+          "texte": "Pensez à acheter la \"Cinque Terre Card Treno\" pour des trajets illimités en train entre La Spezia et Levanto, ainsi que l'accès aux sentiers de randonnée payants."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛰️",
+      "titre": "Panoramas et Sérénité : Vernazza et Corniglia",
+      "legende": "Poursuivez votre découverte des Cinque Terre avec Vernazza, souvent considéré comme le plus beau village, et Corniglia, perché sur sa falaise. Des vues à couper le souffle et une atmosphère paisible vous attendent.",
+      "lieu": "Cinque Terre",
+      "activites": [
+        "<strong>🚂 Visite de Vernazza</strong>: Arrivée en train à Vernazza, explorez son port naturel, son château Doria et ses ruelles charmantes. Profitez d'un café en terrasse.",
+        "<strong>🚶‍♀️ Montée à Corniglia</strong>: Prenez le train jusqu'à Corniglia. Pour atteindre le village perché, vous pouvez emprunter les 382 marches de la Lardarina ou prendre la navette depuis la gare. La vue en vaut la peine!",
+        "<strong>🍷 Dégustation locale à Corniglia</strong>: Savourez un verre de vin local (Sciacchetrà) ou une glace artisanale en admirant le panorama depuis Corniglia, le seul village sans accès direct à la mer."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Vernazza, Cinque Terre",
+          "categorie": "Village",
+          "coords": { "lat": 44.1300, "lng": 9.6820 }
+        },
+        {
+          "nom_recherche": "Corniglia, Cinque Terre",
+          "categorie": "Village",
+          "coords": { "lat": 44.1170, "lng": 9.7090 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Chaussures Confortables",
+          "texte": "Prévoyez des chaussures confortables pour marcher dans les villages et monter les escaliers, notamment à Corniglia. Les tongs sont à éviter."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "⛵",
+      "titre": "Élégance de Portovenere et Île de Palmaria",
+      "legende": "Échappez à l'agitation des Cinque Terre pour découvrir la beauté de Portovenere, un joyau moins connu mais tout aussi charmant. Poursuivez par une escapade sur l'île voisine de Palmaria pour une bouffée d'air frais.",
+      "lieu": "Portovenere & Palmaria",
+      "activites": [
+        "<strong>🚌 Excursion à Portovenere</strong>: Prenez le bus ou le ferry depuis La Spezia pour Portovenere. Explorez son centre historique, le château Doria et l'église San Pietro, perchée sur un promontoire rocheux.",
+        "<strong>⛪ Visite de l'Église San Pietro</strong>: Admirez cette église gothique unique, offrant des vues spectaculaires sur la mer et les falaises.",
+        "<strong>🏝️ Détente sur l'île de Palmaria</strong>: Prenez un court ferry pour l'île de Palmaria. Profitez d'une balade douce, d'une baignade ou d'un pique-nique sur l'une de ses plages isolées."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Portovenere, La Spezia",
+          "categorie": "Village",
+          "coords": { "lat": 44.0500, "lng": 9.8370 }
+        },
+        {
+          "nom_recherche": "Église San Pietro, Portovenere",
+          "categorie": "Église",
+          "coords": { "lat": 44.0490, "lng": 9.8380 }
+        },
+        {
+          "nom_recherche": "Île de Palmaria, Portovenere",
+          "categorie": "Île",
+          "coords": { "lat": 44.0400, "lng": 9.8450 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⛴️",
+          "titre": "Accès en Ferry",
+          "texte": "Des ferries réguliers relient La Spezia à Portovenere et Palmaria, offrant une perspective magnifique sur la côte. C'est une option très agréable pour les beaux jours."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🏖️",
+      "titre": "Plages et Châteaux : Lerici et San Terenzo",
+      "legende": "Découvrez la \"Baie des Poètes\" avec les charmantes villes de Lerici et San Terenzo. Profitez de leurs plages, de leurs châteaux médiévaux et de l'atmosphère détendue qui a inspiré de nombreux artistes.",
+      "lieu": "Lerici & San Terenzo",
+      "activites": [
+        "<strong>🚌 Visite de Lerici</strong>: Prenez le bus depuis La Spezia pour Lerici. Explorez son imposant château, promenez-vous le long de la marina et découvrez ses petites boutiques.",
+        "<strong>🏰 Château de Lerici</strong>: Montez au château pour profiter d'une vue panoramique sur la baie et les villages environnants. Il abrite également un musée paléontologique.",
+        "<strong>🚶‍♀️ Promenade côtière vers San Terenzo</strong>: Marchez tranquillement le long de la promenade qui relie Lerici à San Terenzo. Profitez de la plage de sable et de l'ambiance balnéaire de ce petit village."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Lerici, La Spezia",
+          "categorie": "Ville côtière",
+          "coords": { "lat": 44.0720, "lng": 9.9070 }
+        },
+        {
+          "nom_recherche": "Château de Lerici, Lerici",
+          "categorie": "Château",
+          "coords": { "lat": 44.0700, "lng": 9.9070 }
+        },
+        {
+          "nom_recherche": "San Terenzo, Lerici",
+          "categorie": "Village côtier",
+          "coords": { "lat": 44.0800, "lng": 9.8950 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Baignade",
+          "texte": "Les plages de Lerici et San Terenzo sont parfaites pour une baignade rafraîchissante en août. N'oubliez pas votre maillot de bain et votre crème solaire!"
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🏛️",
+      "titre": "Histoire et Charme Médiéval à Sarzana",
+      "legende": "Éloignez-vous un peu de la côte pour découvrir Sarzana, une ville médiévale pleine de caractère. Flânez dans ses rues historiques, visitez ses forteresses et imprégnez-vous de son atmosphère authentique et moins touristique.",
+      "lieu": "Sarzana",
+      "activites": [
+        "<strong>🚂 Découverte de Sarzana</strong>: Prenez le train pour Sarzana. Explorez son centre historique bien conservé, ses places animées et ses églises.",
+        "<strong>🏰 Visite de la Fortezza Firmafede</strong>: Découvrez cette impressionnante forteresse médiévale qui domine la ville. Elle accueille souvent des expositions et des événements culturels.",
+        "<strong>🛍️ Flânerie et shopping local</strong>: Profitez de l'après-midi pour vous promener dans les rues commerçantes de Sarzana et dénicher des produits artisanaux ou des spécialités locales."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Sarzana, La Spezia",
+          "categorie": "Ville historique",
+          "coords": { "lat": 44.1080, "lng": 9.9610 }
+        },
+        {
+          "nom_recherche": "Fortezza Firmafede, Sarzana",
+          "categorie": "Forteresse",
+          "coords": { "lat": 44.1070, "lng": 9.9600 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♂️",
+          "titre": "Ambiance Locale",
+          "texte": "Sarzana offre une expérience plus authentique de la Ligurie, loin des foules des Cinque Terre. C'est l'endroit idéal pour observer la vie locale et se détendre."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "⚓",
+      "titre": "La Spezia : Culture Maritime et Détente",
+      "legende": "Profitez de votre dernière journée pour explorer La Spezia plus en profondeur. Plongez dans son histoire maritime, visitez ses musées et savourez un dernier repas ligure avant de préparer votre départ.",
+      "lieu": "La Spezia",
+      "activites": [
+        "<strong>⚓ Visite du Musée Naval</strong>: Découvrez l'histoire maritime de La Spezia, l'une des principales bases navales d'Italie, avec une collection impressionnante de modèles de navires et d'instruments de navigation.",
+        "<strong>🌳 Promenade dans les Jardins Publics</strong>: Détendez-vous dans les jardins publics de La Spezia, un havre de paix au cœur de la ville.",
+        "<strong>🎁 Derniers achats et dîner d'adieu</strong>: Profitez-en pour acheter des souvenirs et savourer un dernier dîner mémorable dans un restaurant local."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Musée Naval de La Spezia, La Spezia",
+          "categorie": "Musée",
+          "coords": { "lat": 44.1030, "lng": 9.8250 }
+        },
+        {
+          "nom_recherche": "Jardins Publics, La Spezia",
+          "categorie": "Parc",
+          "coords": { "lat": 44.1060, "lng": 9.8220 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🖼️",
+          "titre": "Culture",
+          "texte": "Le Musée Naval est une excellente option pour les amateurs d'histoire et de marine, offrant un aperçu fascinant du rôle de La Spezia dans l'histoire navale italienne."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🛫",
+      "titre": "Départ de La Spezia",
+      "legende": "C'est le moment de dire au revoir à la magnifique Ligurie. Profitez d'un dernier petit-déjeuner italien avant de prendre le train pour Pise et votre vol retour vers Paris, la tête pleine de souvenirs.",
+      "lieu": "La Spezia / Pise",
+      "activites": [
+        "<strong>☕ Petit-déjeuner italien</strong>: Savourez un dernier cappuccino et une \"brioche\" (croissant) avant de partir.",
+        "<strong>🚆 Trajet La Spezia - Pise</strong>: Prenez le train de La Spezia Centrale à Pise Centrale.",
+        "<strong>✈️ Vol retour Pise - Paris</strong>: Transfert à l'aéroport de Pise pour votre vol de retour."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare de La Spezia Centrale, La Spezia",
+          "categorie": "Gare",
+          "coords": { "lat": 44.1075, "lng": 9.8142 }
+        },
+        {
+          "nom_recherche": "Aéroport de Pise, Pise",
+          "categorie": "Aéroport",
+          "coords": { "lat": 43.6839, "lng": 10.3927 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Timing",
+          "texte": "Prévoyez suffisamment de temps pour le trajet en train jusqu'à Pise et le transfert à l'aéroport, surtout en haute saison."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 89 €/personne (A/R Paris-Pise)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 100 €/personne (trains, bus, ferries locaux)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 450 €/personne (7 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 500 €/personne (7 nuits, hôtel 3* en chambre double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 70 €/personne (Cinque Terre Card, musées, ferry Portovenere)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai - Juin", "symbole": "🌸" },
+    { "titre": "Septembre - Octobre", "symbole": "🍂" },
+    { "titre": "Juillet - Août (pour la baignade)", "symbole": "☀️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En août, les températures peuvent être élevées (25-35°C). Prévoyez des vêtements légers, un chapeau, des lunettes de soleil et de la crème solaire. L'eau de mer est agréable pour la baignade.", "symbole": "☀️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais ayez un peu de liquide pour les petits commerces ou les marchés.", "symbole": "💳" },
+    { "titre": "Le réseau ferroviaire est excellent pour se déplacer le long de la côte ligure. La voiture n'est pas recommandée pour les Cinque Terre en raison des restrictions de circulation et du manque de parkings.", "symbole": "🚆" },
+    { "titre": "L'italien est la langue officielle. Quelques notions de base seront appréciées, mais l'anglais est souvent parlé dans les zones touristiques.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Les célèbres maisons colorées des Cinque Terre n'étaient pas seulement esthétiques. Elles permettaient aux pêcheurs de repérer facilement leur foyer depuis la mer, même par temps de brume. Une sorte de GPS avant l'heure!"
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "La Spezia abrite un musée technique naval où vous pouvez voir des sous-marins miniatures et même une torpille humaine (Siluro a Lenta Corsa), utilisée pendant la Seconde Guerre mondiale. Frissons garantis!"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Pesto alla Genovese",
+      "description": "Le pesto est originaire de Ligurie! Cette sauce verte à base de basilic frais, pignons de pin, ail, parmesan, pecorino et huile d'olive est un incontournable. À déguster avec des \"trofie\" ou des \"trenette\"."
+    },
+    {
+      "symbole": "🍕",
+      "titre": "Focaccia Ligure",
+      "description": "Bien plus qu'un simple pain, la focaccia ligure est moelleuse à l'intérieur et croustillante à l'extérieur, souvent garnie d'huile d'olive et de gros sel. Parfaite pour un encas ou en accompagnement."
+    },
+    {
+      "symbole": "🥞",
+      "titre": "Farina (ou Farinata)",
+      "description": "Une galette salée à base de farine de pois chiche, d'eau, d'huile d'olive et de sel, cuite au four à bois. Simple, délicieuse et sans gluten, c'est une spécialité locale à ne pas manquer."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol Paris-Pise", "url": "https://www.kayak.fr/flights/CDG-PSA/2026-08-24/2026-08-31", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Ligurie", "url": "https://www.lamialiguria.it/fr/", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "Trenitalia (trains)", "url": "https://www.trenitalia.com/fr.html", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo La Spezia", "url": "https://www.accuweather.com/fr/it/la-spezia/215707/weather-forecast/215707", "symbole": "🌤️" }
+  ]
+}
